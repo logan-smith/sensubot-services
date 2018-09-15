@@ -1,0 +1,42 @@
+{
+    "initialQualifications": [
+        {
+            "saveto": "state",
+            "acceptable": "",
+            "key": "="
+        },
+        {
+            "saveto": "city",
+            "acceptable": "",
+            "key": "="
+        },
+        {
+            "saveto": "age",
+            "acceptable": "",
+            "key": "="
+        },
+        {
+            "saveto": "income",
+            "acceptable": "",
+            "key": "="
+        }
+    ],
+    "initialQuestions": [
+        {
+            "content": "Welcome to the sensubot chat page. Lets get started with some basic information about you. Which state do you live in?",
+            "saveto": "state"
+        },
+        {
+            "content": "Which city do you live in?",
+            "saveto": "city"
+        },
+        {
+            "content": "What is your age?",
+            "saveto": "age"
+        },
+        {
+            "content": "What is your annual income?",
+            "saveto": "income"
+        }
+    ]
+}
